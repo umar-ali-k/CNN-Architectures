@@ -40,7 +40,7 @@ LeNet-5, a 7 layer Convolutional Neural Network, was deployed in many banking sy
 
 
 
-# Xception Net
+# Xception Net Architecture 
 
 
 ![5](https://user-images.githubusercontent.com/19469956/68547317-0c3f2080-0406-11ea-9c37-0a32b5bffaba.png)
